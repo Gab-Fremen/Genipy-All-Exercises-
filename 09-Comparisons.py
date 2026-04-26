@@ -25,5 +25,6 @@ max_value = the_list[0]
 for value in the_list:
     if value > max_value:
         max_value = value
+        
 #print the max value to the console.
 print(max_value)
